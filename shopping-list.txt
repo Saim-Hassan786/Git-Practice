@@ -5,3 +5,7 @@ Groceries:
 - Milk
 - Eggs
 - Bread
+
+Household:
+- Dish soap
+- Paper towels
