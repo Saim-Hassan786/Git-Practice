@@ -1,0 +1,7 @@
+Shopping List
+=============
+
+Groceries:
+- Milk
+- Eggs
+- Bread
