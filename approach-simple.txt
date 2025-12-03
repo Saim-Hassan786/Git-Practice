@@ -1,0 +1,7 @@
+Solution Approach: Simple
+========================
+
+Strategy: Keep it minimal
+- Use basic text format
+- Easy to understand
+- Quick to implement
